@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3>I hope you doing fine</h3>
-<h1>Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistran. I do lot of creative stuff.</h1>
+<h1>Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistan. I do lot of creative stuff.</h1>
 <hr>
 <h1>What do i do?</h1>
 <p>
