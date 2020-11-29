@@ -28,6 +28,13 @@
     src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://www.linkedin.com/in/muhammad-taimoor-970622189">
+  <img
+    alt="Facebook"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 
 
 
