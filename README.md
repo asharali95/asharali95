@@ -22,30 +22,13 @@
 <hr>
 <h3>- 📫 How to reach me: ...</h3>
 <p>i'm open for colloboration. If you find my work intresting, feel free to send me a message</p>
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
+<a href="https://www.facebook.com/taimoor.148">
   <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+    alt="Facebook"
+    src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://twitter.com/alekswritescode">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/aleks.popovic/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 
 
 
