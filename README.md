@@ -24,7 +24,7 @@
 
 <hr>
 <h3>- 📫 How to reach me: ...</h3>
-<p>i'm open for colloboration. If you find my work intresting, feel free to send me a message</p>
+<p>i'm open for colloboration. If you find my work intresting, feel free to send me a message.Even if you don't like my work!!!</p>
 <a href="https://www.facebook.com/taimoor.148">
   <img
     alt="Facebook"
