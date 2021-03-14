@@ -1,6 +1,4 @@
-### Hi there 👋
-<h3>I hope you doing fine</h3>
-<h3>Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistan. I do lot of creative stuff.</h3>
+<h3 style="text-align:center">Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistan. I do lot of creative stuff.</h3>
 <h1>What do i do?</h1>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
