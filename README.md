@@ -21,8 +21,11 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
 </p>
 <h3>I'm currently working on single vendor ecommerce website clone using React, Redux and Firebase as BAAS</h3>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor954" />
 <img src="https://github-readme-stats.vercel.app/api?username=taimoor954" />
+  
+</div>  
 
 <hr>
 <h3>- 📫 How to reach me: ...</h3>
