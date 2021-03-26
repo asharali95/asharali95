@@ -1,4 +1,4 @@
-<h3 style="text-align:center">Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistan. I do lot of creative stuff.</h3>
+<h3 style="text-align:center">Hey there! I am Ashar and I'm a full stack web developer and graphic designer.</h3>
 <h1>What do i do?</h1>
 <p style="text-align:center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -6,47 +6,40 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1572B6?logo=TypeScript&logoColor=white&style=for-the-badge" />
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
    <br>
 
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
    <br>
 
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
 </p>
-<h3>I'm currently working on single vendor ecommerce website clone using React, Redux and Firebase as BAAS</h3>
+<h3>I am currently sharpening my skills in React and also learning Material UI side by side.</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor954" />
-<img src="https://github-readme-stats.vercel.app/api?username=taimoor954" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharali95" />
+<img src="https://github-readme-stats.vercel.app/api?username=asharali95" />
   
 </div>  
 
 <hr>
-<h3>- 📫 How to reach me: ...</h3>
-<p>i'm open for colloboration. If you find my work intresting, feel free to send me a message. Even if you don't like my work!!!</p>
-### Connect with me:
+<h3>- 📫 How about a chitchat? </h3>
+<p>Ask anything, suggest anything, I don't mind. I am always up to learn something!</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
+</a>
+<a href="https://www.linkedin.com/in/ashar-ali-a0345/">
+  <img
+    alt="Facebook"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 
-<!--
-**taimoor954/taimoor954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
