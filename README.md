@@ -1,4 +1,4 @@
-<h3 style="text-align:center">Hey there! I am Ashar and I'm a full stack web developer and graphic designer.</h3>
+<h3 style="text-align:center">Hey there! I am Ashar and I'm a Full Stack Web Developer and Software Developer.</h3>
 <h1>What do i do?</h1>
 <p style="text-align:center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
