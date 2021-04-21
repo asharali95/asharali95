@@ -23,8 +23,8 @@
 </p>
 <h3>I am currently sharpening my skills in React and also learning Material UI side by side.</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharali95" />
-<img src="https://github-readme-stats.vercel.app/api?username=asharali95&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=40,000428,004e92&hide_border=true" />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=asharali95&bg_color=75,1DE5E2,B588F7&title_color=ffffff&text_color=ffffff&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=asharali95&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=40,000428,004e92&hide_border=true&include_all_commits=true" />
   
 </div>  
 
