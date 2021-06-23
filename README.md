@@ -20,6 +20,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ff6647?logo=Java&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE?logo=Python&logoColor=white&style=for-the-badge" />
+
   
 </p>
 <h3>I am currently working on several react projects like covid19 tracker app.</h3>
