@@ -1,4 +1,4 @@
-<h3 style="text-align:center">Hey there! I am Ashar and I'm a Full Stack Web Developer and Software Developer.</h3>
+
 <h1>My Tech Stack</h1>
 <p style="text-align:center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
