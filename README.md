@@ -1,102 +1,83 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Syed Ashar Ali</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Tech Lead</h3>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Syed%20Ashar%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<h3 align="center">🚀 Software Engineer | Tech Lead | AI & Cloud Enthusiast</h3>
+<p align="center">I build <b>scalable systems</b>, lead high-performance teams, and design <b>AI-driven experiences</b> that power the next generation of products.</p>
+
+---
+
+## 🧑‍💻 About Me
+- 🔥 Head of Solutions @ **Codefied** (2025 – Present)  
+- ⚡ 3+ years building **LLM apps, cloud-native video platforms, and enterprise-grade ERPs**  
+- 🧠 Obsessed with **AI x Cloud x DevOps automation**  
+- 🎤 Former Chairperson @ **IEEE SSUET** → hosted 60+ hackathons, tech events, and workshops  
+
+---
+
+## 🛠 Tech I Master
 
 <p align="center">
-  <a href="https://linkedin.com/in/asharali99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-asharali99-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:ashar.alia1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashar.alia1999%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,react,next,nodejs,laravel,flutter,django,mongodb,postgresql,aws,firebase,kubernetes,nginx,git,github,bitbucket,vite,webpack" />
+</p>
+
+💡 **Specialties:**  
+`LLM Applications` • `Scalable Cloud Architectures` • `DevOps Automation` • `AI Assistants` • `Social Networks` • `Streaming Platforms`  
+
+---
+
+## 💼 Impactful Work
+
+| 🚀 Project | 🌍 Domain | ⚡ Highlights |
+|------------|-----------|---------------|
+| **Build-My-Plan** | Fire Safety (UK) | Drag-drop evacuation planner, real-time dimensions, multi-floor design |
+| **Travel Defend** | Travel Insurance (US) | Full-stack MERN + API orchestration for 100k+ travelers |
+| **Chaser The Network** | Social + Professional | Secure auth, Reels, Stories, Job module, real-time chat |
+| **LB Networks** | Cloud Streaming | AWS-native CDN with live video & adaptive HLS transcoding |
+| **Rashid AI** | GovTech (Abu Dhabi) | AI assistant with geospatial data, insights, visualization |
+| **Captals ERP** | Enterprise SaaS | CRM, Procurement, Accounts, Report Builder, Complaint system |
+
+---
+
+## 📊 10x GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asharali99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=asharali99&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  
-**Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,mysql" /><br>
-
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,laravel,flutter,django" /><br>
-
-**Databases & Cloud**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,firebase,kubernetes,nginx" /><br>
-
-**Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vite,webpack" /><br>
-
-</p>
+## 🏆 Highlights
+- 🌐 Built **LLM-powered assistant** for Abu Dhabi Govt.  
+- 📺 Deployed **cloud-native video CDN** on AWS (5GB+ ingestion, live streaming).  
+- 🏢 Delivered **ERP & Insurance platforms** adopted by enterprises and 100k+ users.  
+- 🧑‍🏫 Mentored developers → raised team efficiency by **30%**.  
+- 🚀 Architected systems that **scale, self-heal, and deliver with zero downtime**.  
 
 ---
 
-## 💼 Experience Timeline
+## 🎤 Thought Leadership
 
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| 🚀 **Head of Solutions** | Codefied | 2025 – Present | Architected scalable systems, introduced DevOps best practices |
-| 🧑‍💻 **Team Lead Web Engineer** | Codefied | 2024 | Agile adoption → +20% efficiency, reduced defects by 25% |
-| 🔥 **SWE II** | MMC Global | 2022 – 2023 | Led LLM AI Assistant & DNA NFC projects, mentored juniors |
-| 💻 **SWE I** | MMC Global | 2021 – 2022 | Built Construction Mgmt App (TDS) & ERP modules |
+📚 I believe in **sharing knowledge, scaling teams, and designing systems** that *outlast trends*.  
+🧑‍💻 Building isn’t enough — it’s about **impact**, **efficiency**, and **vision**.  
+💡 *“Good engineers write code. Great engineers build leverage.”*  
 
 ---
 
-## 🚀 Featured Projects
-
-✨ **[Build-My-Plan](#)** – Floor Plan Designer  
-💡 Web tool for UK fire safety evacuation plans with drag & drop, multi-floor management, and real-time dimensions.  
-
-✨ **[Travel Defend](#)** – Insurance Concierge Platform  
-⚡ Revamped full-stack system for 100k+ users with API integrations, role-based lead system, and policy quote generator.  
-
-✨ **[Chaser The Network](#)** – Social & Professional Network  
-🔗 Secure Node.js backend with 2FA, JWT, Reels, Stories, job module, and real-time messaging.  
-
-✨ **[LB Networks](#)** – Video Streaming CDN  
-📺 AWS-native solution with live streaming (RTMP, SRT), adaptive bitrate HLS transcoding, and CloudFront distribution.  
-
-✨ **[Rashid AI](#)** – Abu Dhabi Govt. Assistant  
-🗺️ AI-driven chat assistant with geospatial queries, data visualization, and policy insights.  
-
-✨ **[Captals ERP](#)** – ERP System  
-🏢 ERP modules for CRM, Accounts, Procurement, and Report Builder for enterprise clients.  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asharali99&show_icons=true&theme=radical" alt="Ashar's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharali99&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🎓 Education
-
-🎓 **BSc. Software Engineering (2019–2023)** – Sir Syed University of Engineering & Technology  
-- Chairperson IEEE SSUET (organized 60+ events, hackathons, workshops).  
-- CCNA Networking Course under Kamyab Jawan Program.  
-
----
-
-## 🌐 Connect with Me
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/asharali99">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-asharali99-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ashar.alia1999@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/asharali99">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-asharali99-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-✨ *"Always building scalable, user-focused solutions with cutting-edge technologies."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
