@@ -94,8 +94,8 @@ I speak both **machine and human languages**:
   <a href="mailto:ashar.alia1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashar.alia1999%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/asharali99">
-    <img src="https://img.shields.io/badge/GitHub-asharali99-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/asharali95">
+    <img src="https://img.shields.io/badge/GitHub-asharali95-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
