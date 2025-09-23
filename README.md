@@ -1,6 +1,10 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtjaXJyOXlpZjdlZXVpd3ZqbDMzOXJveXc2Y2dmbzFsOTFwamNpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Banner Gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtjaXJyOXlpZjdlZXVpd3ZqbDMzOXJveXc2Y2dmbzFsOTFwamNpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+       alt="Banner Gif" 
+       width="100%" 
+       height="250px"
+       style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h1 align="center">👨‍💻 Syed Ashar Ali</h1>
