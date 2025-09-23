@@ -1,58 +1,102 @@
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Syed Ashar Ali</h1>
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Tech Lead</h3>
 
-<h1>My Tech Stack</h1>
-<p style="text-align:center">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-
-  <br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
-   <br>
-
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
-   <br>
-
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ff6647?logo=Java&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE?logo=Python&logoColor=white&style=for-the-badge" />
-
-  
+<p align="center">
+  <a href="https://linkedin.com/in/asharali99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-asharali99-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ashar.alia1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashar.alia1999%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
 </p>
-<h3>I am currently working on a production setup of "Build-my-Plan" floorplan tool</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharali95&bg_color=75,FF0A8C,4A3CDB&title_color=ffffff&text_color=ffffff&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=asharali95&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=40,000428,004e92&hide_border=true&include_all_commits=true" />
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
   
-</div>  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,mysql" /><br>
 
-<hr>
-<h3>- 📫 How about a chitchat? </h3>
-<p>Ask anything, suggest anything, I don't mind. I am always up to learn something!</p>
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,laravel,flutter,django" /><br>
 
-</a>
-<a href="https://www.linkedin.com/in/ashar-ali-a0345/">
-  <img
-    alt="Facebook"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
+**Databases & Cloud**  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,firebase,kubernetes,nginx" /><br>
 
+**Tools & DevOps**  
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vite,webpack" /><br>
 
-<!-- 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience Timeline
+
+| Role | Company | Duration | Highlights |
+|------|---------|----------|------------|
+| 🚀 **Head of Solutions** | Codefied | 2025 – Present | Architected scalable systems, introduced DevOps best practices |
+| 🧑‍💻 **Team Lead Web Engineer** | Codefied | 2024 | Agile adoption → +20% efficiency, reduced defects by 25% |
+| 🔥 **SWE II** | MMC Global | 2022 – 2023 | Led LLM AI Assistant & DNA NFC projects, mentored juniors |
+| 💻 **SWE I** | MMC Global | 2021 – 2022 | Built Construction Mgmt App (TDS) & ERP modules |
+
+---
+
+## 🚀 Featured Projects
+
+✨ **[Build-My-Plan](#)** – Floor Plan Designer  
+💡 Web tool for UK fire safety evacuation plans with drag & drop, multi-floor management, and real-time dimensions.  
+
+✨ **[Travel Defend](#)** – Insurance Concierge Platform  
+⚡ Revamped full-stack system for 100k+ users with API integrations, role-based lead system, and policy quote generator.  
+
+✨ **[Chaser The Network](#)** – Social & Professional Network  
+🔗 Secure Node.js backend with 2FA, JWT, Reels, Stories, job module, and real-time messaging.  
+
+✨ **[LB Networks](#)** – Video Streaming CDN  
+📺 AWS-native solution with live streaming (RTMP, SRT), adaptive bitrate HLS transcoding, and CloudFront distribution.  
+
+✨ **[Rashid AI](#)** – Abu Dhabi Govt. Assistant  
+🗺️ AI-driven chat assistant with geospatial queries, data visualization, and policy insights.  
+
+✨ **[Captals ERP](#)** – ERP System  
+🏢 ERP modules for CRM, Accounts, Procurement, and Report Builder for enterprise clients.  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asharali99&show_icons=true&theme=radical" alt="Ashar's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharali99&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 **BSc. Software Engineering (2019–2023)** – Sir Syed University of Engineering & Technology  
+- Chairperson IEEE SSUET (organized 60+ events, hackathons, workshops).  
+- CCNA Networking Course under Kamyab Jawan Program.  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/asharali99">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:ashar.alia1999@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/asharali99">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+---
+
+✨ *"Always building scalable, user-focused solutions with cutting-edge technologies."*
