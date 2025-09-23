@@ -1,11 +1,12 @@
 <!-- Top Banner -->
+<!-- 4-GIF Banner Row -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtjaXJyOXlpZjdlZXVpd3ZqbDMzOXJveXc2Y2dmbzFsOTFwamNpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
-       alt="Banner Gif" 
-       width="100%" 
-       height="250px"
-       style="object-fit: cover; border-radius: 12px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtjaXJyOXlpZjdlZXVpd3ZqbDMzOXJveXc2Y2dmbzFsOTFwamNpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="160px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBibnMwbGQ4bGY2MHZmOXNmNm1mMWMwNXJyNzM0OHJ3aGI1c3B5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="160px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd4ZWl5N2JmMTl6ZjVoajcyMWphOWI2eWp3ZG5sb2x4YnpmM2o1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="160px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR5emh3ZzNwMHpxdjFudHdrdzVybzJ6N2xxNzZiNDh4and1aTRtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8VTGrBPjwo7GnIGiE/giphy.gif" height="160px" />
 </p>
+
 
 <h1 align="center">👨‍💻 Syed Ashar Ali</h1>
 <h3 align="center">Software Engineer • Full-Stack Developer • Tech Lead</h3>
