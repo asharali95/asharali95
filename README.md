@@ -1,9 +1,16 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Syed%20Ashar%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<h3 align="center">🚀 Software Engineer | Tech Lead | AI & Cloud Enthusiast</h3>
-<p align="center">I build <b>scalable systems</b>, lead high-performance teams, and design <b>AI-driven experiences</b> that power the next generation of products.</p>
-
+<h1 align="center">👨‍💻 Syed Ashar Ali</h1>
+<h3 align="center">Software Engineer • Full-Stack Developer • Tech Lead</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/asharali99">
+    <img src="https://img.shields.io/badge/LinkedIn-asharali99-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:ashar.alia1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashar.alia1999%40gmail.com-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://github.com/asharali99">
+    <img src="https://img.shields.io/badge/GitHub-asharali99-black?style=flat&logo=github"/>
+  </a>
+</p>
 ---
 
 ## 🧑‍💻 About Me
