@@ -62,8 +62,10 @@ I speak both **machine and human languages**:
 ---
 
 ## 💼 Career Journey
-
-- 🚀 **Head of Solutions – Codefied (2025–Present)**  
+- 🚀 **Senior Software Engineer – Pryze Inc. (2025–current)**  
+  Product System designing and ensuring reliability and scalability
+  
+- 🚀 **Head of Solutions – Codefied (2025–2025)**  
   Architected scalable systems, drove DevOps culture.  
 
 - 🧑‍💻 **Team Lead Web Engineer – Codefied (2024)**  
